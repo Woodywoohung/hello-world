@@ -1,2 +1,3 @@
 # hello-world
-A brand new start
+#A brand new start
+print("Hello, world!")
